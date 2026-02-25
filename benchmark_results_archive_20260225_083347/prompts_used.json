@@ -1,0 +1,252 @@
+[
+  {
+    "id": "Coding_1",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #1"
+  },
+  {
+    "id": "Coding_2",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #2"
+  },
+  {
+    "id": "Coding_3",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #3"
+  },
+  {
+    "id": "Coding_4",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #4"
+  },
+  {
+    "id": "Coding_5",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #5"
+  },
+  {
+    "id": "Coding_6",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #6"
+  },
+  {
+    "id": "Coding_7",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #7"
+  },
+  {
+    "id": "Coding_8",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #8"
+  },
+  {
+    "id": "Coding_9",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #9"
+  },
+  {
+    "id": "Coding_10",
+    "domain": "Coding",
+    "prompt": "Autonomous prompt for Coding challenge #10"
+  },
+  {
+    "id": "Reasoning_1",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #1"
+  },
+  {
+    "id": "Reasoning_2",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #2"
+  },
+  {
+    "id": "Reasoning_3",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #3"
+  },
+  {
+    "id": "Reasoning_4",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #4"
+  },
+  {
+    "id": "Reasoning_5",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #5"
+  },
+  {
+    "id": "Reasoning_6",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #6"
+  },
+  {
+    "id": "Reasoning_7",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #7"
+  },
+  {
+    "id": "Reasoning_8",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #8"
+  },
+  {
+    "id": "Reasoning_9",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #9"
+  },
+  {
+    "id": "Reasoning_10",
+    "domain": "Reasoning",
+    "prompt": "Autonomous prompt for Reasoning challenge #10"
+  },
+  {
+    "id": "Data Synthesis_1",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #1"
+  },
+  {
+    "id": "Data Synthesis_2",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #2"
+  },
+  {
+    "id": "Data Synthesis_3",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #3"
+  },
+  {
+    "id": "Data Synthesis_4",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #4"
+  },
+  {
+    "id": "Data Synthesis_5",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #5"
+  },
+  {
+    "id": "Data Synthesis_6",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #6"
+  },
+  {
+    "id": "Data Synthesis_7",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #7"
+  },
+  {
+    "id": "Data Synthesis_8",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #8"
+  },
+  {
+    "id": "Data Synthesis_9",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #9"
+  },
+  {
+    "id": "Data Synthesis_10",
+    "domain": "Data Synthesis",
+    "prompt": "Autonomous prompt for Data Synthesis challenge #10"
+  },
+  {
+    "id": "Agentic Tools_1",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #1"
+  },
+  {
+    "id": "Agentic Tools_2",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #2"
+  },
+  {
+    "id": "Agentic Tools_3",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #3"
+  },
+  {
+    "id": "Agentic Tools_4",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #4"
+  },
+  {
+    "id": "Agentic Tools_5",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #5"
+  },
+  {
+    "id": "Agentic Tools_6",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #6"
+  },
+  {
+    "id": "Agentic Tools_7",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #7"
+  },
+  {
+    "id": "Agentic Tools_8",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #8"
+  },
+  {
+    "id": "Agentic Tools_9",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #9"
+  },
+  {
+    "id": "Agentic Tools_10",
+    "domain": "Agentic Tools",
+    "prompt": "Autonomous prompt for Agentic Tools challenge #10"
+  },
+  {
+    "id": "Efficiency_1",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #1"
+  },
+  {
+    "id": "Efficiency_2",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #2"
+  },
+  {
+    "id": "Efficiency_3",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #3"
+  },
+  {
+    "id": "Efficiency_4",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #4"
+  },
+  {
+    "id": "Efficiency_5",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #5"
+  },
+  {
+    "id": "Efficiency_6",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #6"
+  },
+  {
+    "id": "Efficiency_7",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #7"
+  },
+  {
+    "id": "Efficiency_8",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #8"
+  },
+  {
+    "id": "Efficiency_9",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #9"
+  },
+  {
+    "id": "Efficiency_10",
+    "domain": "Efficiency",
+    "prompt": "Autonomous prompt for Efficiency challenge #10"
+  }
+]

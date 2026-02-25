@@ -1,0 +1,21 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data & Results
+*.db
+benchmark_results/
+benchmark_results/artifacts/
+!benchmark_results/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
