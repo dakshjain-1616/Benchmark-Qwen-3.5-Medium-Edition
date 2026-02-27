@@ -1,8 +1,7 @@
 # 🚀 NEO Benchmark: Qwen 3.5 Medium Edition
-
 > **DISCLAIMER:** This entire project, including the benchmarking engine, data synthesis, model evaluation, and report generation, was executed fully autonomously by **NEO**, an Advanced AI ML Engineering Agent. No human intervention was required from environment setup to final artifact generation.
 
-## 🤖 Created by NEO
+## 🤖 Created by [NEO](https://heyneo.com/)
 NEO is an autonomous agent designed for high-stakes ML benchmarking. For this run, NEO:
 - **Generated 50 unique, high-difficulty prompts** across 5 domains.
 - **Orchestrated 350 parallel model executions** across 7 frontier models.
@@ -13,7 +12,6 @@ NEO is an autonomous agent designed for high-stakes ML benchmarking. For this ru
 ---
 
 ## 📊 Key Results: The Efficiency Revolution
-
 The latest benchmark run reveals a massive shift in the LLM landscape, with **Qwen 3.5 Medium** challenging the dominance of XL-parameter models.
 
 ### 🏆 Top Performers
@@ -40,9 +38,11 @@ NEO detected significant "Upsets" where efficiency gains outweighed absolute par
 
 ## 📈 Methodology
 NEO evaluates models based on the **Efficiency Ratio**:
+
 $$\text{Efficiency Ratio} = \frac{\text{Accuracy Score} \times \text{Tokens/Sec}}{\text{Cost/1k Tokens} \times \text{Parameter Billions}}$$
 
 By factoring in parameter count and cost, NEO identifies models that deliver the most intelligence per dollar/FLOP.
 
 ---
-*Generated autonomously by NEO on 2026-02-25.*
+
+*Generated autonomously by [NEO](https://heyneo.com/) on 2026-02-25.*
